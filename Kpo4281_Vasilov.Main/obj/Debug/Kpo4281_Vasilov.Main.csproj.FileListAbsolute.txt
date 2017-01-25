@@ -1,0 +1,48 @@
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.exe.config
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.Properties.Resources.resources
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.csproj.GenerateResource.Cache
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.FrmMain.resources
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.FrmEmployee.resources
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.exe.config
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.FrmEmployee.resources
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.FrmMain.resources
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.Properties.Resources.resources
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.csproj.GenerateResource.Cache
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.exe.config
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.FrmEmployee.resources
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.FrmMain.resources
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.Properties.Resources.resources
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.csproj.GenerateResource.Cache
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.exe.config
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.exe
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Main.pdb
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.FrmEmployee.resources
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.FrmMain.resources
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281.Vasilov.Main.Properties.Resources.resources
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Main\obj\Debug\Kpo4281_Vasilov.Main.csproj.GenerateResource.Cache

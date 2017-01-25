@@ -1,0 +1,20 @@
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Lib\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Lib\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Lib\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Lib\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov — копия до 3 пункта\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Lib\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Lib\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Kpo4281_Vasilov — текущая лаба\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Lib\bin\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Lib\bin\Debug\Kpo4281_Vasilov.Lib.pdb
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.csprojResolveAssemblyReference.cache
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.dll
+D:\VStudio2013\Сдавать\Kpo4281_Vasilov 3 лаба\Kpo4281_Vasilov.Lib\obj\Debug\Kpo4281_Vasilov.Lib.pdb
